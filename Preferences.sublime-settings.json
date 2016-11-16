@@ -1,0 +1,25 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/Aurora (SL).tmTheme",
+	"draw_white_space": "all",
+	"fade_fold_buttons": false,
+	"font_face": "Hack",
+	"font_size": 13,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Enki Theme",
+		"JSX",
+		"SublimeCodeIntel",
+		"Vintage"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"rulers":
+	[
+		100
+	],
+	"save_on_focus_lost": true,
+	"theme": "Default.sublime-theme",
+	"trim_trailing_white_space_on_save": false
+}
