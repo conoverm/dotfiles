@@ -9,7 +9,7 @@
 # @TODO make a .credentials config that contains keys to all services logged into. for example:
 # developer.mediamath.com
 # conoverm
-# mediamath2014
+# mmpassword
 
 
 # a little note about storing git credentials
